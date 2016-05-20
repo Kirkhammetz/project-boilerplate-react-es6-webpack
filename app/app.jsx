@@ -6,7 +6,7 @@ import {Route, Router, IndexRoute, hashHistory } from 'react-router'
 /** COMPONENTS **/
 
 
-// Foundation Styles
+// Foundation init
 $(document).foundation();
 
 // App Styles
